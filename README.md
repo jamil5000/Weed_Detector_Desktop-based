@@ -1,10 +1,2 @@
-Desktop Application: 
-===========================
-1. Go to the 'app' folder
-2. Install the following python libraries
-	Tkinter
-	PIL
-	Pandas
-	Torch
-	TorchVision
-3. Run `python weed_classifier_browse.py`
+# weed_image_detection
+Flask Server and Android app to detect and classify  Chine apple, lantana, parkinsona, Parthenium, Prickly,  Rubber Vine, Siam weed  and Snake weed
